@@ -1,0 +1,94 @@
+body { padding-top:20px; }
+.container {
+    max-width: 1200px;
+}
+.panel-body 
+.btn:not(.btn-block) { 
+	width:140px !important;
+	height:135px !important;
+	margin-bottom:10px !important;
+	vertical-align: middle !important;
+	text-align: center !important;
+	padding: 15px 0 0 0 !important;	
+}
+/* Font Size For Button Text */
+.glyphsize {
+	font-size:48px !important;
+}
+.panel-footer {
+	line-height:inherit !important;
+}
+/* Colours Used for Glyphicons and some text */
+.black { color: #000;}
+.red { color: #F00; }
+.dgreen { color: #060; }
+.green { color: #0F0; }
+.blue { color: #00F; }
+.mblue { color: #09F; }
+.yellow { color: #FF0;}
+.purple { color: #609;}
+.lilac { color: #C6F; }
+.orange { color: #F90; }
+.choc { color: #330;}
+
+/* Button Colours */
+.btn-dblue { 
+  color: #ffffff; 
+  background-color: #1B23BD; 
+  border-color: #000A7A; 
+} 
+ 
+.btn-dblue:hover, 
+.btn-dblue:focus, 
+.btn-dblue:active, 
+.btn-dblue.active, 
+.open .dropdown-toggle.btn-dblue { 
+  color: #ffffff; 
+  background-color: #18148C; 
+  border-color: #000A7A; 
+} 
+ 
+.btn-dblue:active, 
+.btn-dblue.active, 
+.open .dropdown-toggle.btn-dblue { 
+  background-image: none; 
+} 
+ 
+.btn-dblue.disabled, 
+.btn-dblue[disabled], 
+fieldset[disabled] .btn-dblue, 
+.btn-dblue.disabled:hover, 
+.btn-dblue[disabled]:hover, 
+fieldset[disabled] .btn-dblue:hover, 
+.btn-dblue.disabled:focus, 
+.btn-dblue[disabled]:focus, 
+fieldset[disabled] .btn-dblue:focus, 
+.btn-dblue.disabled:active, 
+.btn-dblue[disabled]:active, 
+fieldset[disabled] .btn-dblue:active, 
+.btn-dblue.disabled.active, 
+.btn-dblue[disabled].active, 
+fieldset[disabled] .btn-dblue.active { 
+  background-color: #1B23BD; 
+  border-color: #000A7A; 
+} 
+ 
+.btn-dblue .badge { 
+  color: #1B23BD; 
+  background-color: #ffffff; 
+}
+.btn-dred { 
+  color: #ffffff; 
+  background-color: #B50D2E; 
+  border-color: #69021F; 
+} 
+ 
+.btn-dred:hover, 
+.btn-dred:focus, 
+.btn-dred:active, 
+.btn-dred.active, 
+.open .dropdown-toggle.btn-dred { 
+  color: #ffffff; 
+  background-color: #7A2435; 
+  border-color: #69021F; 
+} 
